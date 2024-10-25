@@ -14,7 +14,7 @@ body{
     width: 100%;
     max-width: 400px;
     background: linear-gradient(150deg, #cf9d2a, #131962); 
-    background-image: url("images/forest3Img.jpg"); */
+    background-image: url("images/forest3Img.jpg"); 
     background-size: cover;
     color: black;
     margin: 100px, auto 0;
