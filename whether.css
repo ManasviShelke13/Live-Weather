@@ -13,11 +13,11 @@ body{
 .card{
     width: 100%;
     max-width: 400px;
-    background: linear-gradient(150deg, #cf9d2a, #131962); 
+/*     background: linear-gradient(150deg, #cf9d2a, #131962);  */
     background-image: url("images/forest3Img.jpg"); 
     background-repeat: no-repeat;
     background-size: cover;
-    color: black;
+    color: yellow;
     margin: 100px, auto 0;
     border-radius: 15px;
     padding: 20px;
